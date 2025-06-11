@@ -1,3 +1,7 @@
+Name :ISHIMWE ETTIENE
+Class:L3 SOD B
+
+
 # puzzlegame
 
 ## Project setup
